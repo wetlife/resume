@@ -1,0 +1,74 @@
+Email:
+kyle.thomas@lifetimeoregonstate.edu
+Name, Phone, and Address:
+youKnow!
+Salary Expectation:
+1000($/mo.)*12(mo.\yr.) + 50k($)/3(yr.)
+= 29k($/yr.)
+= 2450($/mo.)
+
+LICENSE NUMBER:
+8387401
+
+EDUCATION HISTORY:
+------------------
+Bachelor of Science in Physics
+Oregon State University
+Corvallis, OR
+September 2011 to June 2015
+2.4 GPA
+
+Associate of Science: Engineering Emphasis
+Southwestern Oregon Community College
+1988 Newmark Ave.
+Coos Bay, OR 97420
+September 2009 to June 2011
+GPA 2.5
+
+EMPLOYMENT HISTORY
+------------------
+Title: *	
+Math Tutor and Proctor
+Work History 1 Employment Type: *	
+Work History 1 Date From: *	 
+Work History 1 Date To: *	 
+Work History 1 Reason for Leaving:	
+Work History 1 Final Rate Of Pay:	
+11$/hr
+Work History 1 Company Name: *	
+Oregon State University
+Work History 1 Company Street Address: *	
+OSU
+Corvallis, OR
+Supervisor:	
+Scott Peterson, KC Walsh
+Instructor,     Instructor
+
+
+Title:
+Math Tutor
+From:
+September 2009
+To:
+June 2011
+Reason for Leaving:
+I graduated
+Final Rate Of Pay:	
+10$/hr.
+Company Name:
+Southwestern Oregon Community College
+Company Street Address:
+1988 Newmark
+Company City, State:
+North Bend, OR
+Company Phone:	
+541 888 7234
+Direct Supervisor:	
+Sharon Miller
+Supervisor Title:	
+Instructor
+
+
+OTHER PROGRAMMING LANGUAGES AND CERTIFICATIONS
+----------------------------------------------
+certified CompTIA A+ IT, python, Matlab, html, css, image analysis, data visualization, computational modeling of phenomena
