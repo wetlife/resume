@@ -1,13 +1,16 @@
+| Name         | Phone        | Address             |
+|--------------|--------------|---------------------| 
+| Kyle Thomas  | 541 217 5815 | 755 NE Circle Blvd. |
+|              |              | Corvallis, OR 97330 |
+|--------------|--------------|---------------------|
+
 Email:
 kyle.thomas@lifetimeoregonstate.edu
-Name, Phone, and Address:
-youKnow!
 Salary Expectation:
 1000($/mo.)*12(mo.\yr.) + 50k($)/3(yr.)
 = 29k($/yr.)
 = 2450($/mo.)
-
-LICENSE NUMBER:
+License Number:
 8387401
 
 EDUCATION HISTORY:
@@ -41,7 +44,7 @@ Work History 1 Company Street Address: *
 OSU
 Corvallis, OR
 Supervisor:	
-Scott Peterson, KC Walsh
+Scott Peterson (541) 737-4946, KC Walsh (541) 737-1703
 Instructor,     Instructor
 
 
@@ -60,7 +63,7 @@ Southwestern Oregon Community College
 Company Street Address:
 1988 Newmark
 Company City, State:
-North Bend, OR
+Coos Bay, OR
 Company Phone:	
 541 888 7234
 Direct Supervisor:	
@@ -72,3 +75,12 @@ Instructor
 OTHER PROGRAMMING LANGUAGES AND CERTIFICATIONS
 ----------------------------------------------
 certified CompTIA A+ IT, python, Matlab, html, css, image analysis, data visualization, computational modeling of phenomena
+
+To Whom it May Concern,
+-----------------------
+I have enjoyed two years' formal education building, troubleshooting, and interfacing systems of analog and digital electronics. I also have several years' experience writing and typesetting publication-quality technical documents in LaTeX. This experience came through writing my homework solutions, my lab reports, and my undergraduate thesis. To sell myself, I'll mention my thesis used Matlab code I wrote for image-analysis, namely segmentation, in order to track and measure each user-selected cell's size and shape.
+
+My drive to innovate and optimize as well as my enthusiasm for working with technology make me valuable to any employer. My hope is to become valuable to an employer through a position in research. Interview me and I may realize that hope.
+
+Signed,
+Kyle Thomas
