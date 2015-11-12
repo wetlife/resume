@@ -30,23 +30,25 @@ GPA 2.5
 
 EMPLOYMENT HISTORY
 ------------------
-Title: *	
+Title:
 Math Tutor and Proctor
-Work History 1 Employment Type: *	
-Work History 1 Date From: *	 
-Work History 1 Date To: *	 
+Work History 1 Date From: 
+Work History 1 Date To:	 
 Work History 1 Reason for Leaving:	
 Work History 1 Final Rate Of Pay:	
 11$/hr
 Work History 1 Company Name: *	
 Oregon State University
-Work History 1 Company Street Address: *	
-OSU
+Work History 1 Company Street Address:OSU
 Corvallis, OR
-Supervisor:	
-Scott Peterson (541) 737-4946, KC Walsh (541) 737-1703
-Instructor,     Instructor
 
+Supervisor:	
+Scott Peterson
+speter@math.oregonstate.edu
+(541) 737-4946
+KC Walsh
+walshke@onid.orst.edu
+(541) 737-1703
 
 Title:
 Math Tutor
@@ -71,13 +73,22 @@ Sharon Miller
 Supervisor Title:	
 Instructor
 
+REFERENCES
+----------
+David Roundy
+OSU Computational Physics Professor
+roundyd@oregonstate.edu
+541-737-1701
+Bo Sun
+OSU Cell Biophysics Principal Investigator
+sunb@physics.oregonstate.edu
+541-737-8203
 
 OTHER PROGRAMMING LANGUAGES AND CERTIFICATIONS
 ----------------------------------------------
 certified CompTIA A+ IT, python, Matlab, html, css, image analysis, data visualization, computational modeling of phenomena
 
 To Whom it May Concern,
------------------------
 I have enjoyed two years' formal education building, troubleshooting, and interfacing systems of analog and digital electronics. I also have several years' experience writing and typesetting publication-quality technical documents in LaTeX. This experience came through writing my homework solutions, my lab reports, and my undergraduate thesis. To sell myself, I'll mention my thesis used Matlab code I wrote for image-analysis, namely segmentation, in order to track and measure each user-selected cell's size and shape.
 
 My drive to innovate and optimize as well as my enthusiasm for working with technology make me valuable to any employer. My hope is to become valuable to an employer through a position in research. Interview me and I may realize that hope.
