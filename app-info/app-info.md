@@ -19,7 +19,7 @@ Bachelor of Science in Physics
 Oregon State University
 Corvallis, OR
 September 2011 to June 2015
-2.4 GPA
+2.44 GPA
 
 Associate of Science: Engineering Emphasis
 Southwestern Oregon Community College
@@ -75,14 +75,24 @@ Instructor
 
 REFERENCES
 ----------
-David Roundy
-OSU Computational Physics Professor
-roundyd@oregonstate.edu
-541-737-1701
-Bo Sun
-OSU Cell Biophysics Principal Investigator
-sunb@physics.oregonstate.edu
-541-737-8203
+OSU's Associate Professor David Roundy most recently taught me in the course scientific computing II during Spring of 2015.
+Office: 401B Weniger Hall
+Phone: (541) 602-0836
+Email: roundyd@physics.oregonstate.edu
+
+OSU's Assistant Professor Bo Sun was the PI for my undergraduate thesis, for which I wrote Matlab code to automatically mask user-selected cells in each frame of a movie to objectively  measure each cell's size and shape throughout the movie. I used python to visualize the measured data.
+Office: 499 Weniger Hall
+Phone: (541) 737-8203
+Email: sunb@onid.orst.edu
+
+OIT's MMET Department Chair and Associate Professor Jeffrey Hayen taught me to code in Matlab in a course at Southwestern Oregon Community College.
+Phone: (541) 885-1402
+Email: jeffrey.hayen@oit.edu
+
+OSU's Senior Instructor Scott L. Peterson was my superior while I tutored at OSU's Math Learning Center and Collaborative Learning Center. Scott works with many tutors; I doubt he will remember me, but I listed him so that I have some paid-work-reference.
+Office: Kidd 108B
+Phone: (541) 737-4946
+Email: speter@math.oregonstate.edu
 
 OTHER PROGRAMMING LANGUAGES AND CERTIFICATIONS
 ----------------------------------------------
